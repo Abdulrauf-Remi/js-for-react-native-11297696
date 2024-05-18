@@ -1,6 +1,6 @@
 # DCIT202 Mobile Application Development Assignment 1
 
-## Student ID: [11297696]
+## Student ID: 11297696
 
 ## Task Explanations
 
