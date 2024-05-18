@@ -12,6 +12,8 @@ const numArray = [1,2,3,4,5,6,7,8,9,10];
 console.log(processArray(numArray));
 
 
+let strArr = ["Remi", "Adeleke", "Mango", "University", "Legon", "America"];
+let numArr = [1, 2, 3, 4, 5, 6, 7, 8, 6, 4];
 
 
 function formatArrayStrings(strArr, numArr) {
@@ -24,11 +26,9 @@ function formatArrayStrings(strArr, numArr) {
         }
     }
     return formattedArr;
-}
+};
 
-// Example usage:
-let strArr = ["Remi", "Adeleke", "Mango", "University", "Legon", "America"];
-let numArr = [1, 2, 3, 4, 5, 6, 7, 8, 6, 4];
+
 
 console.log(formatArrayStrings(strArr, numArr));
 
