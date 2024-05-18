@@ -32,4 +32,4 @@ let numArr = [1, 2, 3, 4, 5, 6, 7, 8, 6, 4];
 
 console.log(formatArrayStrings(strArr, numArr));
 
-module.exports = {processArray, formatArrayStrings};
+module.exports = {formatArrayStrings};
